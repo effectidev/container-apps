@@ -11,6 +11,17 @@
         "type": "app"
     },
     {
+        "description": "An ubuntu xenial ready for automation.",
+        "repository": "effectidev",
+        "arch": "amd64",
+        "icon": "http://download.qnap.com/QPKG/images/QPKG/container/app_gitlab.png",
+        "displayName": "Xenial Automation",
+        "name": "xenial-automation",
+        "version": "16.04",
+        "location": "http://nexus.local.effectidev.com/content/sites/lxc/xenial_automation.tgz",
+        "type": "lxc"
+    },
+    {
         "description": "Redmine is a free and open source web-based project management system.",
         "repository": "dockerhub",
         "arch": "amd64",
