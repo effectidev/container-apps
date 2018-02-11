@@ -19,18 +19,18 @@
 		</inspect>
 	</ctstation>
         <ctstation>
-                <name>Ubuntu Automation</name>
+                <name>Ubuntu Automation V2</name>
                 <internalName>xenial-automation</internalName>
                 <version>16.04</version>
                 <arch>amd64</arch>
                 <category>qnap</category>
                 <imageType>lxc</imageType>
-                <repository>effectidev</repository>
+                <repository>qnap</repository>
                 <icon>http://download.qnap.com/QPKG/images/QPKG/container/ubuntu_icon.png</icon>
                 <size>275382272</size>
                 <location>http://nexus.local.effectidev.com/content/sites/lxc/xenial_automation.tgz</location>
                 <description>
-                        <![CDATA[An automation-ready ubuntu Xenial distributiond.]]>
+                        <![CDATA[An automation-ready ubuntu Xenial distribution. V2]]>
                 </description>
                 <inspect>
                         <![CDATA[{}]]>

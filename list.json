@@ -11,8 +11,8 @@
         "type": "app"
     },
     {
-        "description": "An ubuntu xenial ready for automation.",
-        "repository": "effectidev",
+        "description": "An ubuntu xenial ready for automation. V2",
+        "repository": "qnap",
         "arch": "amd64",
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/app_gitlab.png",
         "displayName": "Xenial Automation",
